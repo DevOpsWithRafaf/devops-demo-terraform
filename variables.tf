@@ -5,3 +5,7 @@ variable "ami-id" {
 variable "sg-id" {
   type = string
 }
+
+variable "key-name" {
+  type = string
+}
